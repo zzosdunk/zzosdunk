@@ -1,8 +1,4 @@
 ### Let's get acquainted  
-<div align="center">
-<img src="https://i.postimg.cc/jdpnpVMY/photo-2022-10-31-20-23-46.jpg" align="center" style="width: 100%" />
-</div>  
-  
 
 ### <div align="center">I'm Denys, a game developer in past and a frontend developer now 👨‍💻 </div>  
   
