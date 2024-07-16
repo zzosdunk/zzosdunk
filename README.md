@@ -1,15 +1,7 @@
 ### Let's get acquainted  
 
-### <div align="center">I'm Denys, a game developer in past and a frontend developer now 👨‍💻 </div>  
-  
+### <div align="center">I'm Denys, a game and a frontend developer 👨‍💻 </div>  
 
-- 🔭 I’m currently working on [Tank Squad](https://store.steampowered.com/app/1498130/Tank_Squad/)  
-  
-
-- ✍️ At the moment I am writing my new chapter in life dedicated to web development.  
-  
-
-<br/>  
 
 
 ## My Skill Set  
